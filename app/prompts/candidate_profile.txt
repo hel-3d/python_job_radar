@@ -1,0 +1,88 @@
+Candidate: Elena Gusarevich
+Location: Yerevan, Armenia
+Role: Python Backend Developer / Python Automation Engineer
+Preferred format: remote work, written communication preferred.
+
+Core positioning:
+Elena is a Python Backend / Automation Engineer focused on backend automation, API integrations, scraping infrastructure, security automation, Telegram bots, data-processing pipelines, and production-ready Python systems.
+
+Main stack:
+Python 3.10+, FastAPI, Flask, AsyncIO, SQL, PostgreSQL, SQLite, MongoDB, Docker, Linux/VPS, systemd, cron, REST API, HTTPX, requests, Selenium, Playwright, BeautifulSoup, pandas, Google Sheets API, Telegram Bot API, aiogram, Telethon, OpenAI API, LangGraph, pytest, Git.
+
+Strong areas:
+
+* Python backend automation
+* API integrations and HTTP debugging
+* Telegram bots and Telegram Web Apps
+* scraping and browser automation
+* Google Sheets / PostgreSQL / ETL workflows
+* Linux VPS deployment, Docker, systemd services
+* AI/LLM integrations, OpenAI API, LangGraph
+* security automation and threat intelligence enrichment
+* modular architecture, service layer, repository pattern
+* background workers, idempotent processing, logging, error handling
+* writing documentation and maintaining project structure
+
+Commercial projects:
+
+1. Microsoft Sentinel / Microsoft XDR Threat Hunting Notebooks
+   Python analytics layer for Azure ML notebooks. Built MSTICPy Sentinel connection, KQL orchestration helpers, Sentinel incident automation, VirusTotal fallback with caching, MISP integration with graceful failure, Microsoft threat intelligence lookup, cross-domain correlation across email, endpoint, Safe Links and cloud events, Isolation Forest anomaly detection and SHAP explainability.
+
+2. Email Analysis Engine for Microsoft Sentinel
+   Standalone Python engine for phishing incident analysis. Integrated WHOIS, DNSBL, GeoIP, reverse DNS, URLhaus, MalwareBazaar, homoglyph detection and structured scoring. Built modular analyzers, stable JSON input/output contract, external scoring config, timeout handling and test coverage.
+
+3. Ritma Notification Engine SaaS
+   Telegram-based notification backend rebuilt into a modular SaaS-style architecture. Implemented async processing, MongoDB repositories, partner-aware notifications, timezone-safe event modeling, idempotent delivery, custom message templates, privacy-aware data handling and background workers.
+
+4. Scraping / automation / ETL projects
+   Built commercial parsers and automation systems for websites, marketplaces, PDFs, Google Sheets and external APIs. Used Selenium, Playwright, BeautifulSoup, PostgreSQL, Google Sheets API, Docker and Telegram notifications.
+
+5. A/B Test Analysis project
+   Python analytics project with reproducible structure: data loading, metric calculation, statistical tests, bootstrap confidence intervals, charts and final report generation.
+
+Preferred vacancies:
+
+* Python Backend Developer
+* Python Automation Engineer
+* Data & Automation Developer
+* API Integrations Developer
+* Backend / Fullstack integrations where frontend is not the main focus
+* AI Tools Builder
+* LLM / RAG / AI Automation Engineer
+* Data Engineer junior/middle with Python and SQL
+* QA Automation only if focused on Python, API and backend tests
+
+Good match signals:
+
+* Python + API integrations
+* FastAPI / async backend
+* PostgreSQL / MongoDB / SQL
+* Docker / Linux / VPS
+* Telegram bots
+* Google Sheets automation
+* web scraping / browser automation
+* ETL / data pipelines
+* AI / LLM / OpenAI / LangGraph
+* security automation
+* backend automation for business processes
+* small product teams, startups, internal tools, integration-heavy systems
+
+Weak match or reject signals:
+
+* pure frontend role
+* Go / Java / C++ as the main language
+* DevOps role without Python development
+* pure ML research or Computer Vision without backend/integration work
+* mobile QA as the main responsibility
+* mandatory office in Russia
+* constant spoken English B2/C1 as a hard requirement
+* relocation to Russia as mandatory
+* salary below 150,000 RUB for full-time
+* unpaid large test task
+* vague “AI startup” with no clear product, budget or responsibilities
+
+English:
+Elena can read documentation and communicate in writing with translator support. Do not present her as fully fluent in spoken English. Written English is acceptable; frequent live calls in English are a risk.
+
+Cover letter style:
+Honest, calm, specific, not overly corporate. Do not invent experience. If there is no direct experience with a tool, write: “I do not have direct commercial experience with X yet, but I have worked with similar API/integration/backend tasks and can learn it quickly.”

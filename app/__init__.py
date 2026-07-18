@@ -1,0 +1,1 @@
+"""Python Job Radar package."""

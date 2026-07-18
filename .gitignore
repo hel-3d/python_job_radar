@@ -1,0 +1,53 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Telegram sessions
+*.session
+*.session-journal
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Temporary browser files
+downloaded_files/
+driver_fixing.lock
+
+# Selenium / Chrome profile
+data/chrome_upwork_profile/
+
+# Runtime data
+data/queue/
+data/processing/
+data/approved/
+data/rejected/
+data/errors/
+data/photos/
+
+data/posted_posts.txt
+data/upwork_seen.txt
+data/votes.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
