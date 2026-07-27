@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  bot:
+    build: .
+    container_name: python_job_radar
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./.env:/app/.env
+    restart: unless-stopped
+    # Depending on how the application runs (persistent or cron-like),
+    # you might want to adjust the command here.
+    # For now, we'll use a wrapper script to run all components.
+    command: /bin/bash /app/run_all.sh

@@ -1,0 +1,16 @@
+.git
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+data/
+logs/
+.dockerignore
+Dockerfile
+docker-compose.yml
+run_*.bat
+start_*.bat
+*.vbs
+README.md

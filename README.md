@@ -42,6 +42,7 @@ python_job_radar/
 
 -   Python 3.13+
 -   Windows (launch scripts provided)
+-   **Alternatively:** Docker and Docker Compose
 -   OpenAI API key
 -   Telegram API credentials
 -   Bot token
@@ -61,7 +62,21 @@ pip install -r requirements.txt
 
 Copy `.env.example` to `.env` and fill in all required variables.
 
-## Running
+## Running with Docker
+
+Ensure you have created the `.env` file from `.env.example` in the project root.
+
+```bash
+docker-compose up -d --build
+```
+
+To stop the services:
+
+```bash
+docker-compose down
+```
+
+## Running (Windows)
 
 Run all services:
 
